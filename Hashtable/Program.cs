@@ -11,7 +11,6 @@ namespace Generic_Hashtable
             ht.Add("1", ".Net");
             ht.Add("2", "C#");
             ht.Add("3", "ASP.Net");
-            ht.Remove("1");
             ICollection keys = ht.Keys;
             foreach (String k in keys)
             {
