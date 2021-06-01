@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\bin\Debug\netcoreapp3.1\Generic_Stack.exe
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\bin\Debug\netcoreapp3.1\Generic_Stack.deps.json
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\bin\Debug\netcoreapp3.1\Generic_Stack.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\bin\Debug\netcoreapp3.1\Generic_Stack.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\bin\Debug\netcoreapp3.1\Generic_Stack.dll
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\bin\Debug\netcoreapp3.1\Generic_Stack.pdb
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\obj\Debug\netcoreapp3.1\Generic_Stack.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\obj\Debug\netcoreapp3.1\Generic_Stack.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\obj\Debug\netcoreapp3.1\Generic_Stack.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\obj\Debug\netcoreapp3.1\Generic_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\obj\Debug\netcoreapp3.1\Generic_Stack.dll
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\obj\Debug\netcoreapp3.1\Generic_Stack.pdb
+C:\Users\Rohit Dasari\source\repos\Generic_Stack\obj\Debug\netcoreapp3.1\Generic_Stack.genruntimeconfig.cache
