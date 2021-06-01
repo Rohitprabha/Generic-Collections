@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\bin\Debug\netcoreapp3.1\Generic_Queue.exe
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\bin\Debug\netcoreapp3.1\Generic_Queue.deps.json
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\bin\Debug\netcoreapp3.1\Generic_Queue.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\bin\Debug\netcoreapp3.1\Generic_Queue.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\bin\Debug\netcoreapp3.1\Generic_Queue.dll
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\bin\Debug\netcoreapp3.1\Generic_Queue.pdb
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\obj\Debug\netcoreapp3.1\Generic_Queue.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\obj\Debug\netcoreapp3.1\Generic_Queue.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\obj\Debug\netcoreapp3.1\Generic_Queue.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\obj\Debug\netcoreapp3.1\Generic_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\obj\Debug\netcoreapp3.1\Generic_Queue.dll
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\obj\Debug\netcoreapp3.1\Generic_Queue.pdb
+C:\Users\Rohit Dasari\source\repos\Generic_Queue\obj\Debug\netcoreapp3.1\Generic_Queue.genruntimeconfig.cache
